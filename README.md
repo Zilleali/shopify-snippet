@@ -1,1 +1,3 @@
 # shopify-snippet
+
+      Brand Logo
